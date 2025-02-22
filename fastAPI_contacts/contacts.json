@@ -1,0 +1,16 @@
+[
+  {"id": 12345, 
+  "name": "Alberto", 
+  "email_addr": "al@mail.com", 
+  "last_changed": "2024-12-18 15:06:09.492618", 
+  "available": false
+  },
+
+  {
+    "id": 10001, 
+    "name": "Augusta", 
+    "email_addr": "augusta@mail.com", 
+    "last_changed": "2024-12-18 16:29:58.747891", 
+    "available": false
+  }
+]
