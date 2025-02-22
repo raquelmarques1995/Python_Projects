@@ -14,7 +14,7 @@ This project is a simple vehicle management system. It allows users to:
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/yourusername/python_projects.git
+git clone https://github.com/raquelmarques1995/python_projects.git
 cd python_projects/vehicle_management
 ```
 
